@@ -4,9 +4,9 @@ Fruit App is designed with Flutter in 7 hours from scratch according a Graphic D
 
 ## Screenshots
 
-###Screen 1 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-28.png)
-##Screen 2 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-52-57.png)
-##Screen 3 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-02.png)
+### Screen 1 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-28.png=1000x)
+## Screen 2 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-52-57.png=1000x)
+## Screen 3 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-02.png=1000x)
 
 ## Getting Started
 
