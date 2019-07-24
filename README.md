@@ -17,10 +17,13 @@ Fruit App is designed with Flutter in 7 hours from scratch according a Graphic D
 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-02.png)
 
 ## Facebook Live Recorded
+
+To take up the challenge, I broadcast my coding live on Facebook.
+
   - [Part 1] (https://web.facebook.com/kaizensquaresn/videos/687587998373023/)
   - [Part 2] (https://web.facebook.com/kaizensquaresn/videos/1289275747913757/)
 
-To take up the challenge, I broadcast my coding live on Facebook.
+
 
 Licences
 --------
