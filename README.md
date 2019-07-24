@@ -1,6 +1,10 @@
-# fruit_juice_app
+# Fruit Juice App
 
-A new Flutter application.
+Fruit App is designed with Flutter in 7 hours from scratch according a Graphic Design found on Dribbble..
+
+## Screenshots
+
+![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-52-57.png)
 
 ## Getting Started
 
