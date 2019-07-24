@@ -17,7 +17,7 @@ Fruit App is designed with Flutter in 7 hours from scratch according a Graphic D
 ![alt text](https://github.com/angebagui/fruitapp/blob/master/screenshots/2019-07-24_20-53-02.png)
 
 ## Graphic Design
-    [Fruit app-two] (https://dribbble.com/shots/6800972-Fruit-app-two?utm_source=Clipboard_Shot&utm_campaign=Zhubajie&utm_content=Fruit%20app-two&utm_medium=Social_Share)
+    [Fruit app-two] (https://dribbble.com/shots/6800972-Fruit-app-two)
 
 ## Facebook Live Recorded
 
